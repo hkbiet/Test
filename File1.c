@@ -10,7 +10,7 @@ int main(){
 
 	char a;
 	int b;
-	int sum = b + 100;
+	int sum = b + 100 + 200;
 	printf("sum",%d)
 
 
