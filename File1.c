@@ -4,7 +4,10 @@
 #COMMENT ADDED BY fable
 
 
+
 #include<stdio.h>
+
+int fun(int,int)
 
 int main(){
 
@@ -14,6 +17,21 @@ int main(){
 	printf("sum",%d)
 
 	printf("UNDER RIDE with OVER RIDE")
-
+	fun();
 
 }
+
+
+
+int fun(){
+
+	int a,b;
+	printf("OK TESTED FOR a and b")
+
+
+
+	}
+
+
+
+
